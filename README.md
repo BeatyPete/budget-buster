@@ -20,7 +20,7 @@ Clone the repository from https://github.com/BeatyPete/budget-buster. Then open 
 
 ## Usage 
 
-![mockup](./mockup.png)
+![mockup](mockup.PNG)
 Users will likely want to start with an initial amount that they have, followed by subsequent purchases. Use the input labeled 'name of transaction' to enter a short description, and the input labeled 'transaction amount' for the monetary change of your current transaction. After filling these out use either of the buttons to either subtract or add the amount.  
 
 ## License
